@@ -1,0 +1,85 @@
+
+h1 {
+
+    font-weight: bold;
+}
+
+
+.logo {
+
+    width: 150px;
+}
+
+.bg-color {
+
+    background-color: #f0fff0;
+    
+}
+
+.first-img {
+
+    height: 350px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+.first-text {
+
+    padding: 40px;
+}
+
+
+.get-started {
+
+    position: absolute;
+    color: white;
+    width: 153px;
+    height: 43px;
+    background-color: #21b573;
+    border-radius: 30px;
+}
+
+.any-schedule {
+
+    color:#21b573 ;
+}
+
+.color-orang {
+
+    color:orangered;
+}
+
+.font-color {
+
+    color: black;
+}
+
+.sing-in {
+    
+    color: white;
+    background-color:#21b573 ;
+    border-radius: 33px;
+    width: 100px;
+    text-align: center;
+}
+
+.icon1 img{
+
+    width: 150px;
+    padding: 30px;
+    
+}
+
+.icon1 {
+    
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+
+}
+
+.container {
+
+    margin-bottom: 50px;
+}
