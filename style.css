@@ -17,6 +17,8 @@ h2 {
 
     margin-bottom: 50px;
 }
+
+
 .sing-in{
     
     background-color:#21b573 ;
@@ -158,7 +160,7 @@ h2 {
 
 
 
-.manu-col1 a {
+.footer-manu-col1 a {
 
     text-decoration: none;
     color: white;
@@ -167,27 +169,27 @@ h2 {
 }
 
 
-.manu-col {
+.footer-manu-col {
 
     margin-top: 20px;
     text-align: left;
 }
 
 
- .manu-col1 , .manu-col2, .manu-col3{
+ .footer-manu-col1 , .footer-manu-col2, .footer-manu-col3{
 
     margin-top: 20px;
     
 }
 
-.manu-col2 a {
+.footer-manu-col2 a {
 
     text-decoration: none;
     color: white;
      
 }
 
-.manu-col3 a {
+.footer-manu-col3 a {
 
     text-decoration: none;
     color: white; 
@@ -195,8 +197,23 @@ h2 {
 }
 
 
+.footer-manu-col1 a:hover{
 
+    font-size: 18px;
+    color: orangered;
+}
 
+.footer-manu-col2 a:hover{
+
+    font-size: 18px;
+    color: orangered;
+}
+
+.footer-manu-col3 a:hover{
+
+    font-size: 18px;
+    color: orangered;
+}
 .copyright {
 
     color: white;
