@@ -17,15 +17,12 @@ h2 {
 
     margin-bottom: 50px;
 }
-.sing-in {
+.sing-in{
     
-    color: white;
     background-color:#21b573 ;
     border-radius: 33px;
-    width: 100px;
-    height: 30px;
-    text-align: center;
-    border: none;
+    padding: 5px 20px;
+    
 }
 
 
@@ -195,3 +192,4 @@ h2 {
     padding: 10px;
 
 }
+
