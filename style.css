@@ -4,11 +4,30 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
 
+    font-weight: bold;
+}
 .logo {
 
     width: 150px;
 }
+
+.container {
+
+    margin-bottom: 50px;
+}
+.sing-in {
+    
+    color: white;
+    background-color:#21b573 ;
+    border-radius: 33px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border: none;
+}
+
 
 .bg-color {
 
@@ -16,28 +35,9 @@ h1 {
     
 }
 
-.first-img {
-
-    height: 350px;
-    padding-top: 40px;
-    padding-right: 40px;
-    padding-bottom: 40px;
-}
-
-.first-text {
+.are-you-ready {
 
     padding: 40px;
-}
-
-
-.get-started {
-
-    position: absolute;
-    color: white;
-    width: 160px;
-    height: 53px;
-    background-color: #21b573;
-    border-radius: 30px;
 }
 
 .any-schedule {
@@ -50,21 +50,24 @@ h1 {
     color:orangered;
 }
 
-.font-color {
+.get-started {
 
-    color: black;
-}
-
-.sing-in {
-    
+    position: absolute;
     color: white;
-    background-color:#21b573 ;
-    border-radius: 33px;
-    width: 100px;
-    height: 30px;
-    text-align: center;
-    border: none;
+    width: 160px;
+    height: 53px;
+    background-color: #21b573;
+    border-radius: 30px;
 }
+
+.Illustration {
+
+    height: 350px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
 
 .icon-img img{
 
@@ -88,10 +91,17 @@ h1 {
 
 }
 
-.container {
+.online {
 
     margin-bottom: 50px;
+    text-align: center;
 }
+
+.card-img-top {
+
+    padding: 10px;
+}
+
 
 .buy-course {
 
@@ -102,14 +112,86 @@ h1 {
     padding: 10px;
 }
 
+.calendar , .people {
+
+    margin-right: 20px;
+}
+
+.card-footer img {
+
+    width: 30px;
+}
+
+.testmonail {
+
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 .man {
 
     width: 100px;
     margin-left: 180px;
 }
 
-.testmonail {
+.footer-color{
 
+    background-color: rgb(15, 15, 46);
+
+    height: auto;
+}
+
+.footer-manu {
+
+    color: white;
+    padding: 40px;
+}
+
+
+
+.manu-col1 a {
+
+    text-decoration: none;
+    color: white;
+    margin-top: 20px; 
+    
+}
+
+
+.manu-col {
+
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+ .manu-col1 , .manu-col2, .manu-col3{
+
+    margin-top: 20px;
+    
+}
+
+.manu-col2 a {
+
+    text-decoration: none;
+    color: white;
+     
+}
+
+.manu-col3 a {
+
+    text-decoration: none;
+    color: white; 
+    margin-top: 20px; 
+}
+
+
+
+
+.copyright {
+
+    color: white;
     text-align: center;
-    margin-bottom: 20px;
+    padding: 10px;
+
 }
