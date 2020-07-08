@@ -75,6 +75,10 @@ h2 {
     padding-bottom: 40px;
 }
 
+.icon-box:hover{
+
+    box-shadow: 8px 8px 8px 8px #888888;
+}
 
 .icon-img img{
 
